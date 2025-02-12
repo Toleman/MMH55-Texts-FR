@@ -1,1 +1,1 @@
-﻿Double l'Attaque et la Défense de la créature pour un tour. Les bonus d'Attaque et de Défense procurés par le héros ne sont pas doublés. Le sort ne s'applique pas aux dragons.
+﻿Augmente l'attaque et la défense de la créature de 10 pendant un tour.
